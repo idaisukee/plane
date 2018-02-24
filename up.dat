@@ -1,0 +1,12 @@
+# company,destination_airport,departure_time,destination_time
+J,NRT,08:20,09:55
+J,NRT,09:30,11:05
+P,NRT,09:40,11:15
+J,NGO,10:15,12:05
+J,NRT,12:50,14:25
+J,NRT,13:55,15:30
+J,NGO,15:00,16:50
+J,NRT,16:25,18:00
+J,NGO,19:20,21:20
+J,NRT,19:45,21:20
+J,NRT,20:35,22:10
